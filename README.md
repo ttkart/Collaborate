@@ -7,6 +7,14 @@ A project sharing social media style app where users can post their project idea
 
  | Application Images:|         
 :-------------------------:
-![](app_3.png)
-![](use_5.png)  
+![](Collab_1.png)
+![](Collab_2.png)  
+![](Collab_3.png)  
+![](Collab_4.png)  
+![](Collab_5.png)  
+![](Collab_6.png)  
+![](Collab_7.png)  
+
+
+
 
